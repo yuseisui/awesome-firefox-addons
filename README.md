@@ -8,8 +8,6 @@
 - Enhancer for YouTube
 - Foxy Gestures
 - Google Search Focus
-- Nano Adblocker
-- Nano Defender
 - Octotree
 - OneTab
 - Refined GitHub
@@ -19,5 +17,6 @@
 - Tree Style Tab
 - TST Mouse Wheel and Double Click
 - uBlacklist
+- uBlock Origin
 - Video Downloader professional
 - YouTube Video and Audio Downloader
